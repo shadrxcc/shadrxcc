@@ -6,10 +6,6 @@
   <a href="https://www.instagram.com/shadrxcc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shadrxcc"/></a>
 </p>
 
-# About Me :rage1:
-* I'm currently undergoing training to become a Full Stack Software Developer at SOIconsulting.
-* I draw and i'm a digital art enthusiast. :alien:
-
 # Stats
 ![shadrxcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadrxcc&show_icons=true&theme=radical)
 
