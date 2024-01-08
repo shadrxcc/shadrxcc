@@ -1,4 +1,4 @@
-<img width="1100" height="auto" src="SHADRACHAKAADE.png">
+
 
 <p align="center">
   <a href="https://twitter.com/shadrxcc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="shadrxcc"></a>
